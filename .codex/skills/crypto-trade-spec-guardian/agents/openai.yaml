@@ -1,0 +1,7 @@
+interface:
+  display_name: "CryptoTrade Spec Guardian"
+  short_description: "Следит за соответствием спекам CryptoTrade"
+  default_prompt: "Используй $crypto-trade-spec-guardian, чтобы реализовать или проверить работу по спекам проекта."
+
+policy:
+  allow_implicit_invocation: true
