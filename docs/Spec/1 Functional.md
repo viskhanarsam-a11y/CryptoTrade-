@@ -1,4 +1,4 @@
-# CryptoTrade Functional Specification
+﻿# CryptoTrade Functional Specification
 
 ## 1. Назначение функциональной спеки
 
@@ -80,7 +80,7 @@
 
 В разделе "Топ монеты" пользователь видит список из 20 монет.
 
-Список топ-20 монет задан в `Spec/feature-specs/топ-монеты.md`.
+Список топ-20 монет задан в `docs/Spec/feature-specs/топ-монеты.md`.
 
 Для каждой монеты в списке нужно показывать:
 - название монеты;
@@ -231,3 +231,4 @@ git config --global user.email "viskhanarsam@gmail.com"
 - регистрацию и личный кабинет;
 - поведение TradingView-графика;
 - адаптивную верстку для мобильных устройств.
+
